@@ -3,6 +3,6 @@
 
 ## List of some interests
 
-I love :whisky, :guitar, :beer, :wine
+I love :whisky:, :guitar:, :beer:, :wine:
 
 
