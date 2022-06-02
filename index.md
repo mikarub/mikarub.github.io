@@ -3,6 +3,8 @@
 
 ## List of some interests
 
-I love :whisky:, :guitar:, :beer:, :wine:
+I love: 
+- beverages (like :whisky:, :beer: and :wine_glass:)
+- music (and instruments, like :guitar: and :musical_keyboard:)
 
 
